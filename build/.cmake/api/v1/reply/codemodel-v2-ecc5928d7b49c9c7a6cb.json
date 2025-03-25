@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rapdix",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "public_websocket_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-public_websocket_demo-Debug-59d58c49ccd5a69d1e57.json",
+					"name" : "public_websocket_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rapdix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rapdix-Debug-9b05e73922c4a360ec6e.json",
+					"name" : "rapdix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rapdix_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rapdix_lib-Debug-2cd1093518d7d9aeb339.json",
+					"name" : "rapdix_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-0c2428287acc5672dcec.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "websocket_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-websocket_demo-Debug-9378d25c45f669a03fda.json",
+					"name" : "websocket_demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lijianzhe/IdeaProjects/RapidxSDK-Cpp/build",
+		"source" : "/Users/lijianzhe/IdeaProjects/RapidxSDK-Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
